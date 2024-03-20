@@ -3,4 +3,12 @@ site_url: https://example.com
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+
+# Repository
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
+
+
+# Configuration
+theme:
+  name: material
